@@ -1,0 +1,51 @@
+.member{
+    height: 40px;
+    width: 100%;
+    border: 1px solid #739b17;
+    color: #739b17;
+    text-align: center;
+    
+   
+}
+.login{
+    margin-top: 50px;
+    margin-right: center;
+    height: 288px;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 300px;
+
+}
+
+.input1{
+    width:100%;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+}
+
+.input2{
+    width:100%;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+}
+.input3{
+    width:100%;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+}
+
+.button1{
+    color:white;
+    background:#739b17 ;
+    margin-top: 25px;
+    margin-left: 80px;
+    border: 1px solid white;
+    border-radius: 5px;
+
+}
+
+
+
+
+
